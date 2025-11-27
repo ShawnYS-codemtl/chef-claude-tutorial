@@ -1,4 +1,5 @@
 import chefClaudeLogo from "../images/chef-claude-icon.png"
+import React from "react"
 
 function Header(){
     return (
