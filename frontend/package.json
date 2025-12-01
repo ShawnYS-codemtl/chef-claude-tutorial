@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ShawnYS-codemtl.github.io/chef-claude",
+  "homepage": "https://ShawnYS-codemtl.github.io/chef-claude/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
